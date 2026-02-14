@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Привет, я Salim
 
-<!--
-**milas1221/milas1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Начинающий разработчик  
+🎯 Цель: создавать полезные приложения и зарабатывать кодом  
+🧠 Сейчас изучаю: Go, Python, ML
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Технологии
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+---
+
+### 📊 Статистика GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=milas1221&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milas1221&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Активность
+![GitHub Streak](https://streak-stats.demolab.com?user=milas1221&theme=tokyonight)
+
+---
+
+### ✨ Про меня
+- Люблю системное мышление  
+- Хочу делать сильные продукты  
+- Иду к стабильному доходу через код
