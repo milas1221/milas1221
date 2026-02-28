@@ -8,13 +8,7 @@
 🧠 Сейчас изучаю: Go, Python
 
 ---
-<div align="center">
-🔧 Технологии
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-</div>
----
+
 
 🔥 Активность
 ![GitHub Streak](https://streak-stats.demolab.com?user=milas1221&theme=tokyonight)
