@@ -14,7 +14,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=milas1221&theme=tokyonight)
 
 ---
-✈️ Про меня
-- Люблю системное мышление  
-- Хочу делать сильные продукты  
-- Иду к стабильному доходу через код
+
