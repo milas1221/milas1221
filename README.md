@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Milas_1221&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Milas1221&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Milas_1221?color=00ADD8&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Milas_1221)
+[![GitHub followers](https://img.shields.io/github/followers/Milas1221?color=00ADD8&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Milas1221)
 
 </div>
 
@@ -112,18 +112,18 @@ func main() {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Milas_1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Milas1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milas_1221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milas1221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Milas_1221&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6C37&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Milas1221&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6C37&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milas_1221&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=001f3f&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milas1221&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=001f3f&hide_border=true" />
 </div>
 
 ---
@@ -147,7 +147,7 @@ func main() {
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-bersirovsalim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bersirovsalim@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Milas__1221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milas_1221)
+[![GitHub](https://img.shields.io/badge/GitHub-Milas1221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milas1221)
 
 </div>
 
