@@ -98,16 +98,6 @@
 
 ---
 
-## 🎯 &nbsp;Currently
-
-```
-📌  Building:   REST services in Go with clean layered architecture
-📚  Learning:   Docker internals · go test · SQL optimization
-🎯  Goal:       Backend internship in 2025
-💡  Believe in: Simple code that solves real problems
-```
-
----
 
 ## 📫 &nbsp;Contacts
 
