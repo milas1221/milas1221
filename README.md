@@ -12,17 +12,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 
 
@@ -88,7 +77,9 @@
 
 </div>
 
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Milas1221&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6C37&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
 
 
 
