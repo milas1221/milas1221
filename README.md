@@ -88,9 +88,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Milas1221&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6C37&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milas1221&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=001f3f&hide_border=true" />
