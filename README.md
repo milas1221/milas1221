@@ -10,15 +10,7 @@
 
 <br/>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Milas1221&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Milas1221?color=00ADD8&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Milas1221)
-
-</div>
-
----
 
 
 
