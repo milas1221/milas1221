@@ -12,32 +12,7 @@
 
 ---
 
-## 🧠 About me
 
-```go
-package main
-
-type Developer struct {
-	Name   string
-	Role   string
-	Stack  []string
-	Focus  string
-	Status string
-}
-
-func main() {
-	me := Developer{
-		Name:   "Salim Bersirov",
-		Role:   "Backend Developer",
-		Stack:  []string{"Go", "PostgreSQL", "Docker", "HTTP", "REST API"},
-		Focus:  "Clean architecture & reliable systems",
-		Status: "Open to backend internships 🚀",
-	}
-	_ = me
-}
-```
-
----
 
 ## ⚙️ Tech Stack
 
