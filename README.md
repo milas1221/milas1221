@@ -90,9 +90,7 @@
 
 
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milas1221&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=001f3f&hide_border=true" />
-</div>
+
 
 ---
 
