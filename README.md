@@ -20,38 +20,8 @@
 
 ---
 
-## 🧠 &nbsp;About me
 
-```go
-package main
 
-import "fmt"
-
-type Developer struct {
-	Name        string
-	Role        string
-	University  string
-	Stack       []string
-	CurrentFocus string
-	Principle   string
-	Status      string
-}
-
-func main() {
-	me := Developer{
-		Name:       "Salim Bersirov",
-		Role:       "Backend Developer",
-		University: "Computer Science Student",
-		Stack:      []string{"Go", "PostgreSQL", "Docker", "HTTP", "REST API", "Git"},
-		CurrentFocus: "Building production-grade services in Go",
-		Principle:  "Make it work. Make it right. Make it fast.",
-		Status:     "Open to backend internships 🚀",
-	}
-
-	fmt.Printf("Hello, I'm %s — %s\n", me.Name, me.Role)
-	fmt.Println("Currently:", me.CurrentFocus)
-}
-```
 
 <br/>
 
