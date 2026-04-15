@@ -1,79 +1,158 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Salim%20👾&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20·%20Go%20·%20Building%20things%20that%20work&descAlignY=58&descSize=16" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001f3f,70:00ADD8,100:0d1117&height=220&section=header&text=Salim%20Bersirov&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%C2%B7%20Go%20%C2%B7%20Systems%20that%20don't%20break&descAlignY=62&descSize=17&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%94%A7;Go+%7C+PostgreSQL+%7C+Docker;Clean+code+%2B+solid+architecture;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems+%F0%9F%94%A7;Go+%7C+PostgreSQL+%7C+Docker+%7C+REST+API;Clean+architecture+over+clever+hacks;Open+to+backend+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Milas_1221&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Milas_1221?color=00ADD8&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Milas_1221)
 
 </div>
 
 ---
 
+## 🧠 &nbsp;About me
 
+```go
+package main
 
-## ⚙️ Tech Stack
+import "fmt"
+
+type Developer struct {
+	Name        string
+	Role        string
+	University  string
+	Stack       []string
+	CurrentFocus string
+	Principle   string
+	Status      string
+}
+
+func main() {
+	me := Developer{
+		Name:       "Salim Bersirov",
+		Role:       "Backend Developer",
+		University: "Computer Science Student",
+		Stack:      []string{"Go", "PostgreSQL", "Docker", "HTTP", "REST API", "Git"},
+		CurrentFocus: "Building production-grade services in Go",
+		Principle:  "Make it work. Make it right. Make it fast.",
+		Status:     "Open to backend internships 🚀",
+	}
+
+	fmt.Printf("Hello, I'm %s — %s\n", me.Name, me.Role)
+	fmt.Println("Currently:", me.CurrentFocus)
+}
+```
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+
+---
+
+## ⚙️ &nbsp;Tech Stack
 
 <div align="center">
 
-**Backend**
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔷 &nbsp;Backend**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTTP](https://img.shields.io/badge/net%2Fhttp-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0a3d62?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database**
+</td>
+<td align="center" width="50%">
+
+**🗄️ &nbsp;Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Infra & Tools**
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🐳 &nbsp;Infra & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Testing**
+</td>
+<td align="center" width="50%">
 
-![Go Test](https://img.shields.io/badge/go_test-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**🧪 &nbsp;Testing**
+
+![Go Test](https://img.shields.io/badge/testing-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Milas_1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=ffffff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milas_1221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Milas_1221&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=ff6c37&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📫 Contacts
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/@Salim__Bersirov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Salim_Bersirov)
-[![Gmail](https://img.shields.io/badge/bersirovsalim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bersirovsalim@gmail.com)
-[![GitHub](https://img.shields.io/badge/Milas__1221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milas_1221)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Milas_1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milas_1221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=6" />
 
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Milas_1221&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6C37&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milas_1221&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=001f3f&hide_border=true" />
 </div>
 
 ---
 
+## 🎯 &nbsp;Currently
+
+```
+📌  Building:   REST services in Go with clean layered architecture
+📚  Learning:   Docker internals · go test · SQL optimization
+🎯  Goal:       Backend internship in 2025
+💡  Believe in: Simple code that solves real problems
+```
+
+---
+
+## 📫 &nbsp;Contacts
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:0d1117&height=100&section=footer" />
+[![Telegram](https://img.shields.io/badge/Telegram-@Salim__Bersirov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Salim_Bersirov)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-bersirovsalim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bersirovsalim@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Milas__1221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milas_1221)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001f3f,70:00ADD8,100:0d1117&height=120&section=footer" />
 </div>
